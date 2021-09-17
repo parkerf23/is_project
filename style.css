@@ -1,0 +1,76 @@
+h1 {
+    font-weight: bold;
+    text-align: center;
+}
+
+h1 span{
+    background-color: #25cff2;
+
+}
+
+h2 {
+    color: #000000;
+    font-weight: bold;
+    text-align: center;
+    background-position: center;
+}
+
+h2 span {
+    background-color: #25cff2;
+}
+
+#park {
+    color: white;
+    text-align: center;
+}
+
+#park span{
+    background-color: #6f42c1;
+}
+
+#hero {
+    color: #000000;
+    font-weight: bold;
+    text-align: center;
+}
+
+#hero span {
+    background-color: #25cff2;
+}
+
+#heroDis {
+    color: #000000;
+    text-align: center;
+    font-weight: bold;
+}
+
+#heroDis span {
+    background-color: #25cff2;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+    height: 50px;
+}
+#vil{
+    color: #842029;
+    font-weight: bold;
+    text-align: center;
+}
+
+#vil span {
+    background-color: #6f42c1;
+}
+
+#vilDes {
+    color: #000000;
+    font-weight: bold;
+    text-align: center;
+}
+
+#vilDes span {
+    background-color: #6f42c1;
+}
